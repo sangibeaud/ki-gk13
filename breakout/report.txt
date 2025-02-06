@@ -1,0 +1,36 @@
+Info: Reading netlist file '/home/stephane/workbench/kicad/projects/GK13-breakout/breakout/breakout.net'.
+
+Info: Using reference designators to match symbols and footprints.
+
+Info: Processing symbol 'J1:SDD-130J:CUI_SDD-130J'.
+Info: Processing symbol 'J3:Connector_PinHeader_2.54mm:PinHeader_1x07_P2.54mm_Vertical'.
+Info: Processing symbol 'J2:Connector_PinHeader_2.54mm:PinHeader_1x08_P2.54mm_Vertical'.
+Update J1 fields.
+Change J1 value from CUI_SDD-130J to SDD-130J.
+Connect J1 pin 10 to Net-(J3-Pin_3).
+Connect J1 pin 9 to Net-(J3-Pin_2).
+Connect J1 pin 8 to Net-(J3-Pin_1).
+Connect J1 pin 11 to unconnected-(J1-Pad11).
+Add net unconnected-(J1-Pad11).
+Connect J1 pin 5 to unconnected-(J1-Pad5).
+Add net unconnected-(J1-Pad5).
+Connect J1 pin 12 to unconnected-(J1-Pad12).
+Add net unconnected-(J1-Pad12).
+Connect J1 pin E1 to GND.
+Connect J1 pin 7 to Net-(J2-Pin_8).
+Connect J1 pin 1 to Net-(J2-Pin_2).
+Connect J1 pin 13 to Net-(J3-Pin_6).
+Connect J1 pin 2 to Net-(J2-Pin_3).
+Connect J1 pin 4 to Net-(J2-Pin_5).
+Connect J1 pin 3 to Net-(J2-Pin_4).
+Connect J1 pin 6 to unconnected-(J1-Pad6).
+Add net unconnected-(J1-Pad6).
+Connect J1 pin E2 to GND.
+Add net GND.
+Update J1 sheetfile to 'breakout.kicad_sch'.
+Update J1 sheetname to 'Root'.
+Update J1 symbol association from  to /f921b78f-d649-4f10-913a-5f44871bcf69.
+Warning: Footprint of J1 changed: board footprint 'GK13:CUI_SDD-130J', netlist footprint 'SDD-130J:CUI_SDD-130J'.
+
+
+Info: Total warnings: 0, errors: 0.
